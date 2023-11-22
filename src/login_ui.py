@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'login_ui.ui'
+## Form generated from reading UI file 'login.ui'
 ##
 ## Created by: Qt User Interface Compiler version 6.6.0
 ##
@@ -96,6 +96,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_6 = QVBoxLayout()
         self.verticalLayout_6.setObjectName(u"verticalLayout_6")
         self.verticalLayout_5 = QVBoxLayout()
+        self.verticalLayout_5.setSpacing(0)
         self.verticalLayout_5.setObjectName(u"verticalLayout_5")
         self.label_3 = QLabel(self.tables)
         self.label_3.setObjectName(u"label_3")
